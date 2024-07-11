@@ -1,6 +1,6 @@
 # libcst Codemods
 
-Variety of codemods for [libcst](https://github.com/Instagram/LibCST), that are helpful for automated refactoring/moderanization of Python code.
+Variety of codemods/scripts for [libcst](https://github.com/Instagram/LibCST), that are helpful for automated refactoring/moderanization of Python code.
 
 ### Codemods
 
