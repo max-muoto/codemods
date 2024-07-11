@@ -18,5 +18,6 @@ Variety of codemods for [libcst](https://github.com/Instagram/LibCST), that are 
       LIT: Final[Literal[3]]
       ```
   - Flags: `-c` to include class constants, `-s` to run the codemod on stubs only.
+  - Note: This is more useful for MyPy users, as Pyright allows you to enforce constants based on convention through the `reportConstantRedefinition` rule.
 
   
